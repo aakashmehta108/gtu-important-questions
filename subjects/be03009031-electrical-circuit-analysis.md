@@ -1,6 +1,6 @@
 # BE03009031 Electrical Circuit Analysis: Important Questions
 
-BE Semester 4, Electrical, GTU. Five questions per chapter, most repeated first.
+BE Semester 3, Electrical, GTU. Five questions per chapter, most repeated first.
 Selected from GTU papers Summer 2026, Winter 2025, Summer 2025, Winter 2024 of old-syllabus equivalent subject 3130906, matched with the official GTU syllabus.
 
 ## Unit 1: Network Theorems and Coupled Circuits
