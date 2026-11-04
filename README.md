@@ -1,6 +1,6 @@
 # GTU Important Questions (IMPQ)
 
-Important questions for GTU BE Electrical subjects, selected from **GTU old question papers** and matched with the **official GTU syllabus**. Five questions per chapter, most repeated questions first, made to help you pass quickly.
+Important questions for GTU Electrical subjects (BE and Diploma), selected from **GTU old question papers** and matched with the **official GTU syllabus**. Five questions per chapter, most repeated questions first, made to help you pass quickly.
 
 Prepared by **Electro Tutor** (educational initiative), Vadodara.
 
@@ -29,6 +29,12 @@ Prepared by **Electro Tutor** (educational initiative), Vadodara.
 | BE03009031 | Electrical Circuit Analysis | [Open questions](subjects/be03009031-electrical-circuit-analysis.md) |
 
 Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers of their own yet. This set is selected from papers of the old-syllabus equivalent subject **3130906 Electrical Circuit Analysis** (same subject, same semester, same units), so students can also practise directly from 3130906 old papers. The older predecessor subject is 2130901 Circuits and Networks.
+
+## Diploma Semester 6, Electrical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4360901 | Electrical Installation, Commissioning and Maintenance | [Open questions](subjects/4360901-electrical-installation-commissioning-maintenance.md) |
 
 ## For students on WhatsApp
 
