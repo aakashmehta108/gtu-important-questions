@@ -36,6 +36,12 @@ Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers o
 |---|---|---|
 | 4340903 | Electrical Wiring Estimating, Costing and Contracting | [Open questions](subjects/4340903-electrical-wiring-estimating-costing-contracting.md) |
 
+## Diploma Semester 5, Electrical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4350901 | Switchgear and Protection | [Open questions](subjects/4350901-switchgear-and-protection.md) |
+
 ## Diploma Semester 6, Electrical Engineering
 
 | Subject Code | Subject | Question Set |
