@@ -54,6 +54,26 @@ Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers o
 |---|---|---|
 | 4360901 | Electrical Installation, Commissioning and Maintenance | [Open questions](subjects/4360901-electrical-installation-commissioning-maintenance.md) |
 
+## Diploma Semester 4, Mechanical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4341905 | Thermal Engineering-I | [Open questions](subjects/4341905-thermal-engineering-1.md) |
+
+## Diploma Semester 5, Mechanical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4351902 | Manufacturing Engineering-III | [Open questions](subjects/4351902-manufacturing-engineering-3.md) |
+| 4300021 | Entrepreneurship & Start-ups | [Open questions](subjects/4300021-entrepreneurship-and-start-ups.md) |
+
+## Diploma Semester 6, Mechanical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4361901 | Industrial Engineering and Management | [Open questions](subjects/4361901-industrial-engineering-and-management.md) |
+| 4361907 | Fabrication Technology | [Open questions](subjects/4361907-fabrication-technology.md) |
+
 ## For students on WhatsApp
 
 Send your teacher a message in this exact format and you will get the question set PDF:
