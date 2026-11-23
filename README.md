@@ -47,12 +47,32 @@ Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers o
 | Subject Code | Subject | Question Set |
 |---|---|---|
 | 4350901 | Switchgear and Protection | [Open questions](subjects/4350901-switchgear-and-protection.md) |
+| 4350907 | Electrical Traction & Control | [Open questions](subjects/4350907-electric-traction-and-control.md) |
 
 ## Diploma Semester 6, Electrical Engineering
 
 | Subject Code | Subject | Question Set |
 |---|---|---|
 | 4360901 | Electrical Installation, Commissioning and Maintenance | [Open questions](subjects/4360901-electrical-installation-commissioning-maintenance.md) |
+
+## Diploma Semester 6, Computer Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4361601 | Cyber Security and Digital Forensics | [Open questions](subjects/4361601-cyber-security-and-digital-forensics.md) |
+| 4361602 | Cloud and Data Center Technologies | [Open questions](subjects/4361602-cloud-and-data-center-technologies.md) |
+
+## Diploma Semester 2, Common (All Branches)
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4320002 | Engineering Mathematics | [Open questions](subjects/4320002-engineering-mathematics.md) |
+
+## Diploma Semester 5, Common Subject
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 3350501 | Industrial Management | [Open questions](subjects/3350501-industrial-management.md) |
 
 ## Diploma Semester 4, Mechanical Engineering
 
