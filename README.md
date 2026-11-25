@@ -30,6 +30,14 @@ Prepared by **Electro Tutor** (educational initiative), Vadodara.
 
 Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers of their own yet. This set is selected from papers of the old-syllabus equivalent subject **3130906 Electrical Circuit Analysis** (same subject, same semester, same units), so students can also practise directly from 3130906 old papers. The older predecessor subject is 2130901 Circuits and Networks.
 
+## Diploma Semester 3, Electrical Engineering (new syllabus, w.e.f. 2024-25)
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| DI03009011 | Electrical Wiring Estimating & Contracting | [Open questions](subjects/di03009011-electrical-wiring-estimating-and-contracting.md) |
+
+Note: the new DI03 codes started in 2024-25, so this subject has only two GTU papers so far (Winter 2025 and Summer 2026). The old-syllabus equivalent subject is **4340903 Electrical Wiring Estimating, Costing and Contracting** (Diploma Semester 4, listed below), whose papers students can also practise from.
+
 ## Diploma Semester 3, Chemical Engineering
 
 | Subject Code | Subject | Question Set |
