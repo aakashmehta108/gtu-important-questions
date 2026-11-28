@@ -45,6 +45,12 @@ Note: the new DI03 codes started in 2024-25, so this subject has only two GTU pa
 |---|---|---|
 | 4330502 | Fluid Flow Operation | [Open questions](subjects/4330502-fluid-flow-operation.md) |
 
+## Diploma Semester 6, Chemical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 3360502 | Chemical Engineering Plant Economics | [Open questions](subjects/3360502-chemical-engineering-plant-economics.md) |
+
 ## Diploma Semester 4, Electrical Engineering
 
 | Subject Code | Subject | Question Set |
