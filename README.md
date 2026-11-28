@@ -62,6 +62,7 @@ Note: the new DI03 codes started in 2024-25, so this subject has only two GTU pa
 | Subject Code | Subject | Question Set |
 |---|---|---|
 | 4360901 | Electrical Installation, Commissioning and Maintenance | [Open questions](subjects/4360901-electrical-installation-commissioning-maintenance.md) |
+| 4360902 | Microprocessor and Controller Applications | [Open questions](subjects/4360902-microprocessor-and-controller-applications.md) |
 
 ## Diploma Semester 6, Computer Engineering
 
