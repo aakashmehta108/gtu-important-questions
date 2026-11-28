@@ -34,6 +34,7 @@ Note: the new BE03 codes started in 2024-25, so they have almost no GTU papers o
 
 | Subject Code | Subject | Question Set |
 |---|---|---|
+| DI03000091 | Electrical Instrumentation | [Open questions](subjects/di03000091-electrical-instrumentation.md) |
 | DI03009011 | Electrical Wiring Estimating & Contracting | [Open questions](subjects/di03009011-electrical-wiring-estimating-and-contracting.md) |
 
 Note: the new DI03 codes started in 2024-25, so this subject has only two GTU papers so far (Winter 2025 and Summer 2026). The old-syllabus equivalent subject is **4340903 Electrical Wiring Estimating, Costing and Contracting** (Diploma Semester 4, listed below), whose papers students can also practise from.
