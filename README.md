@@ -83,10 +83,19 @@ Note: the new DI03 codes started in 2024-25, so this subject has only two GTU pa
 |---|---|---|
 | 3350501 | Industrial Management | [Open questions](subjects/3350501-industrial-management.md) |
 
+## Diploma Semester 3, Mechanical Engineering
+
+| Subject Code | Subject | Question Set |
+|---|---|---|
+| 4331902 | Engineering Thermodynamics | [Open questions](subjects/4331902-engineering-thermodynamics.md) |
+| 4331904 | Strength of Materials | [Open questions](subjects/4331904-strength-of-materials.md) |
+
 ## Diploma Semester 4, Mechanical Engineering
 
 | Subject Code | Subject | Question Set |
 |---|---|---|
+| 4341901 | Estimating, Costing and Engineering Contracting | [Open questions](subjects/4341901-estimating-costing-and-engineering-contracting.md) |
+| 4341903 | Fluid Mechanics and Hydraulic Machinery | [Open questions](subjects/4341903-fluid-mechanics-and-hydraulic-machinery.md) |
 | 4341905 | Thermal Engineering-I | [Open questions](subjects/4341905-thermal-engineering-1.md) |
 
 ## Diploma Semester 5, Mechanical Engineering
